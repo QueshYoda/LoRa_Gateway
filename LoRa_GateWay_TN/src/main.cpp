@@ -4,11 +4,11 @@
 #include<SPI.h>
 
 // Write API Key
-String API_key = "UR7UOIWRZE6EE0Q1";
+String API_key = "************";
 
 /// Network credentials
-const char* ssid = "böööh";
-const char* password = "pisssslik";
+const char* ssid = "************";
+const char* password = "************";
 
 //Server Address
 const char* adress = "api.thingspeak.com";
